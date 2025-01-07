@@ -1,1 +1,2 @@
 # Gradient-Descent-Optimization
+This is a gradient descent program which attempts to find the best fit for a function to a scatterplot by measuring the error for each iteration, then finding new values for the values of the function by using multiple partial derivatives until the difference between the errors is very small. I programmed this both for a line and Gaussian curve, but the current state of the program is set for a Gaussian curve.
